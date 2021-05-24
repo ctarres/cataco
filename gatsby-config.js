@@ -62,7 +62,7 @@ module.exports = {
         // useStickyHeader: false,
         // useHeaderSocialLinks: true,
         // useColorMode: true
-        sanityProjectId: `pyvaull7`, // Required
+        sanityProjectId: `1i67sq98`, // Required
         useColorMode: false,
       },
     },
