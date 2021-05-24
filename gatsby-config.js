@@ -18,7 +18,7 @@ module.exports = {
       // Sourced from SANITY
       {
         name: `Placeholder`,
-        link: `eric@erichowey.dev`,
+        link: `ctarres92@gmail.com`,
         location: `all`, //Options are "all", "header", "footer"
       },
     ],
